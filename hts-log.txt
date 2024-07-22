@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 Jul 2024 08:58:00 at https://internetpositif.life/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://internetpositif.life/ -O1 "C:\Users\62877\Downloads\edit\gy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:00:33	Warning: 	Found for https://tiktokfun.site/
+09:00:33	Warning: 	File has moved from https://tiktokfun.site/ to https://tiktokfun.site/neon
+09:02:32	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/b345725e-a214-405e-b016-e156a2747949/thumbnail.jpg (from https://internetpositif.life/)
+09:02:45	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/61ed0057-7262-468d-8c3f-8a6eddd0533b/thumbnail.jpg (from https://internetpositif.life/)
+09:03:10	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/8177887e-fb6a-4f34-a812-8459fb02b44a/thumbnail.jpg (from https://internetpositif.life/)
+09:03:33	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/8c6c2f03-9659-4911-9853-fc27bc7b3a33/thumbnail.jpg (from https://internetpositif.life/)
+09:03:46	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/35d1bd91-5b0f-4d73-bbee-28542a9b48b1/thumbnail.jpg (from https://internetpositif.life/)
+09:03:57	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/78f8af09-d052-412f-99a9-a067e5779717/thumbnail.jpg (from https://internetpositif.life/)
+09:04:11	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/180a5a29-13f5-4e92-ac8a-7da45cfd37c1/thumbnail.jpg (from https://internetpositif.life/)
+09:04:24	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/9759ae2c-7ebd-4009-87ec-d1226af58cc0/thumbnail.jpg (from https://internetpositif.life/)
+09:04:38	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/842b1c05-3a1b-429b-810e-f5f05506259e/thumbnail.jpg (from https://internetpositif.life/)
+09:05:20	Warning: 	Moved Permanently for https://belumdewasa.info/robots.txt
+09:05:20	Warning: 	File has moved from https://belumdewasa.info/robots.txt to https://tiktokfun.site
+09:05:20	Warning: 	Moved Permanently for https://belumdewasa.info/
+09:05:20	Warning: 	File has moved from https://belumdewasa.info/ to https://tiktokfun.site
+15:52:34	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/05c3b4d2-81ad-4f13-94c2-188740e52c3b/thumbnail.jpg (from https://internetpositif.life/video/smp-viral-video-2)
+16:02:15	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/f70d3f43-178a-400e-9f7f-2e6f825cd3a5/thumbnail.jpg (from https://internetpositif.life/video/ayah-ngewe-kakaknya-selagi-adiknya-memperhatikan)
+16:05:31	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/a6e8651c-9726-4419-99a2-57f999ebaba6/thumbnail.jpg (from https://internetpositif.life/series/chinese-girl-hd)
+16:05:55	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/3a67f6c4-25e2-4626-b563-55af61e5be89/thumbnail.jpg (from https://internetpositif.life/series/dsc)
+16:09:58	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/38633ebf-509b-4916-80b4-ffedc061f2ff/thumbnail.jpg (from https://internetpositif.life/series/loland)
+16:11:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/rabbit-series-video-22 (from https://internetpositif.life/series/rabbit)
+16:11:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/series/rabbit?page=2 (from https://internetpositif.life/series/rabbit)
+16:11:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/pelatihan-siswi-smp-video-23 (from https://internetpositif.life/series/rangkaian-pelatihan-siswi-smp-tepok-pantat)
+16:15:00	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/5e300005-7ad6-4405-8031-fe16a2a44e2c/thumbnail.jpg (from https://internetpositif.life/series/xinxilie-heji)
+16:15:01	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/507e1f2c-04c2-420d-87fb-c9f57da0a04f/thumbnail.jpg (from https://internetpositif.life/series/xinxilie-heji)
+16:19:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Fpaman-memaksaku-untuk-tidak-menangis (from https://internetpositif.life/video/paman-memaksaku-untuk-tidak-menangis)
+16:19:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/angelica-and-monica-video-3-bj-dad (from https://internetpositif.life/video/paman-memaksaku-untuk-tidak-menangis)
+16:19:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Fcumshot-girl-i06-kimmy-man-oral-petting-st-petersburg (from https://internetpositif.life/video/cumshot-girl-i06-kimmy-man-oral-petting-st-petersburg)
+16:20:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/zzz-1 (from https://internetpositif.life/video/gadis-kecil-asia)
+16:20:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/putri-huang-yao-shi-19 (from https://internetpositif.life/video/gadis-kecil-asia)
+16:20:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/ayah-minta-anaknya-untuk-nyepong (from https://internetpositif.life/video/gadis-kecil-asia)
+16:20:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/adik-kakak-gak-kuat-pengen-cipokan (from https://internetpositif.life/video/ayah-dan-anak-dimobil)
+16:20:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/paragon-series-bocil-colmek-pake-pena-1 (from https://internetpositif.life/video/ayah-dan-anak-dimobil)
+16:20:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Fayah-doggy-style-anak-pantat-cantik (from https://internetpositif.life/video/ayah-doggy-style-anak-pantat-cantik)
+16:20:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Fbocil-smp-colmek-pakai-terong (from https://internetpositif.life/video/bocil-smp-colmek-pakai-terong)
+16:20:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/ayah-anal-gadis-kecil-cantik (from https://internetpositif.life/video/bocil-smp-colmek-pakai-terong)
+16:20:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/video/perkosa-anak-waktu-dia-tidur-memeknya-sempit-dan-pink (from https://internetpositif.life/video/bocil-smp-colmek-pakai-terong)
+16:20:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Firisa-suck-6 (from https://internetpositif.life/video/irisa-suck-6)
+16:20:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://internetpositif.life/report-video?url=https%253A%252F%252Finternetpositif.life%252Fvideo%252Fmov00051-1 (from https://internetpositif.life/video/mov00051-1)
+16:22:33	Error: 	"Not Found" (404) at link https://vz-779a2a1d-05d.b-cdn.net/31cc537c-3941-4cee-83c6-e783fb96933c/thumbnail.jpg (from https://internetpositif.life/video/andy-series-video-14)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 hours 29 minutes 50 seconds : 7208 links scanned, 7168 files written (352967637 bytes overall) [140140418 bytes received at 5192 bytes/sec], 266668074 bytes transferred using HTTP compression in 5040 files, ratio 16%, 22.3 requests per connection
+(17 errors, 23 warnings, 0 messages)

@@ -1,0 +1,23 @@
+ .eye-icon {
+     position: absolute;
+     right: 0;
+     top: 67%;
+     transform: translateY(-50%);
+     height: 100%;
+     width: 3rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border: none;
+     background: transparent;
+ }
+
+ .log {
+     width: 20%
+ }
+
+ @media only screen and (max-width:640px) {
+     .log {
+         width: 55%
+     }
+ }
